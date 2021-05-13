@@ -1,7 +1,9 @@
 ## 中国节假日补班日历
 
 ### 订阅地址
-- 2019~2021年中国节假日信息: [https://raw.githubusercontent.com/lanceliao/china-holiday-calender/master/holidayCal.ics](https://raw.githubusercontent.com/lanceliao/china-holiday-calender/master/holidayCal.ics)
+2019~2021年中国节假日信息:
+- GitHub订阅地址: [https://raw.githubusercontent.com/lanceliao/china-holiday-calender/master/holidayCal.ics](https://raw.githubusercontent.com/lanceliao/china-holiday-calender/master/holidayCal.ics)
+- 国内订阅地址: [https://www.shuyz.com/githubfiles/china-holiday-calender/master/holidayCal.ics](https://www.shuyz.com/githubfiles/china-holiday-calender/master/holidayCal.ics)
 
 ### 特点
 1. 节假日信息来自[中国政府网](http://www.gov.cn/)，一手信息、权威准确
