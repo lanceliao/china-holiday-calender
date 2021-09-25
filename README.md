@@ -2,8 +2,8 @@
 
 ### 订阅地址
 2019~2021年中国放假、调休和补班日历 更新时间2021-06-11 10:00:56
-- GitHub订阅地址: [https://raw.githubusercontent.com/lanceliao/china-holiday-calender/master/holidayCal.ics](https://raw.githubusercontent.com/lanceliao/china-holiday-calender/master/holidayCal.ics)
 - 国内订阅地址: [https://www.shuyz.com/githubfiles/china-holiday-calender/master/holidayCal.ics](https://www.shuyz.com/githubfiles/china-holiday-calender/master/holidayCal.ics)
+- GitHub订阅地址(科学上网): [https://raw.githubusercontent.com/lanceliao/china-holiday-calender/master/holidayCal.ics](https://raw.githubusercontent.com/lanceliao/china-holiday-calender/master/holidayCal.ics)
 - Telegram讨论组: [https://t.me/joinchat/EwhMZRVB7xI4OpuXLXukkw](https://t.me/joinchat/EwhMZRVB7xI4OpuXLXukkw)
 
 ### 特点
@@ -30,3 +30,10 @@
 节假日查询            |  节假日闹钟
 :-------------------------:|:-------------------------:
 ![](./queryHoliday.jpg)  |  ![](./holidayAlarm.jpg)
+
+### 捐助
+`中国节假日补班日历` 属于个人业余项目，如果您愿意支持项目的开发，欢迎为其捐赠。
+
+<div align="left">
+	<img src="./wechatPay.jpg" alt="微信支付" width="35%">
+</div>
