@@ -1,7 +1,7 @@
 ## 中国节假日补班日历
 
 ### 订阅地址
-2019~2021年中国放假、调休和补班日历 更新时间2021-06-11 10:00:56
+2019~2022年中国放假、调休和补班日历 更新时间2021-10-26 08:25:07
 - 国内订阅地址(**支持定制补班日程**): [https://www.shuyz.com/githubfiles/china-holiday-calender/master/holidayCal.ics](https://www.shuyz.com/githubfiles/china-holiday-calender/master/holidayCal.ics)
 - GitHub订阅地址(科学上网): [https://raw.githubusercontent.com/lanceliao/china-holiday-calender/master/holidayCal.ics](https://raw.githubusercontent.com/lanceliao/china-holiday-calender/master/holidayCal.ics)
 - Telegram讨论组: [https://t.me/joinchat/EwhMZRVB7xI4OpuXLXukkw](https://t.me/joinchat/EwhMZRVB7xI4OpuXLXukkw)
