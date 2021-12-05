@@ -35,7 +35,7 @@
 **注意:**
 - 时间格式为24小时制的6位数字，个位补0，例如`8点零5分`表示为`080500`
 - 最大可提前9999分钟提醒，所以提前几天也是可以的。例如`compStart`为`0800`，设定前一天早上8点提醒，则`compAlarm`为24x60=1440; 设定前一天晚上8点提醒，则`compAlarm`为12x60=720
-- 补班日程可设置为全天事件，指定`compEnd=*`并且`compEnd=*`即可
+- 补班日程可设置为全天事件，指定`compStart=*`并且`compEnd=*`即可
 - 由于订阅功能需消耗服务器资源进行计算，如果影响到服务器的正常使用，则定制功能可能随时取消
 
 定制补班日程表            |  详细信息
@@ -49,9 +49,3 @@
 ![](./queryHoliday.jpg)  |  ![](./holidayAlarm.jpg)
 [https://www.shuyz.com/shortcuts/holiday-query](https://www.shuyz.com/shortcuts/holiday-query) | [https://www.shuyz.com/shortcuts/holiday-alarm](https://www.shuyz.com/shortcuts/holiday-alarm)
 
-### 捐助
-`中国节假日补班日历` 属于个人业余项目，如果您愿意支持项目的开发，欢迎为其捐赠。
-
-<div align="left">
-	<img src="./wechatPay.jpg" alt="微信支付" width="35%">
-</div>
