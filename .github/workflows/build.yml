@@ -1,0 +1,16 @@
+name: Rebuild shuyz.com website
+description: This workflow triggers a rebuild of the shuyz.com website with the latest content on the master branch.
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+jobs:
+  rebuild_shuyz_website:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Execute cURL POST request to rebuild shuyz.com
+        run: |
+          curl -X POST ${{ secrets.CI_WEBHOOK }}
