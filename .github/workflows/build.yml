@@ -1,5 +1,4 @@
 name: Rebuild shuyz.com website
-description: This workflow triggers a rebuild of the shuyz.com website with the latest content on the master branch.
 
 on:
   workflow_dispatch:
