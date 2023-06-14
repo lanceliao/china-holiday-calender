@@ -1,7 +1,10 @@
 # 中国节假日补班日历
 
+![Last Commit](https://img.shields.io/github/last-commit/lanceliao/china-holiday-calender)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-33A8E3)](https://t.me/ShuYZGroup)
+
 ## 说明
-2020~2023年中国放假、调休和补班日历 更新时间2022-12-09 13:00:03
+2021~2023年中国放假、调休和补班日历 更新时间2023-06-14 19:35:13
 
 ### 支持3种类型的日历
 - `holidayCal.ics` 包含放假和调休
@@ -13,7 +16,6 @@
 - 国内订阅地址(**支持定制补班日程**): [https://www.shuyz.com/githubfiles/china-holiday-calender/master/holidayCal.ics](https://www.shuyz.com/githubfiles/china-holiday-calender/master/holidayCal.ics)
 - jsDelivr订阅地址: [https://cdn.jsdelivr.net/gh/lanceliao/china-holiday-calender/holidayCal.ics](https://cdn.jsdelivr.net/gh/lanceliao/china-holiday-calender/holidayCal.ics)
 - GitHub订阅地址(科学上网): [https://raw.githubusercontent.com/lanceliao/china-holiday-calender/master/holidayCal.ics](https://raw.githubusercontent.com/lanceliao/china-holiday-calender/master/holidayCal.ics)
-- 参与Telegram讨论: [https://t.me/ShuYZGroup](https://t.me/ShuYZGroup)
 
 ## 特点
 1. 节假日信息来自[中国政府网](http://www.gov.cn/)，一手信息、权威准确
