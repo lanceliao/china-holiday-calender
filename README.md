@@ -17,6 +17,10 @@
 - jsDelivr订阅地址: [https://cdn.jsdelivr.net/gh/lanceliao/china-holiday-calender/holidayCal.ics](https://cdn.jsdelivr.net/gh/lanceliao/china-holiday-calender/holidayCal.ics)
 - GitHub订阅地址(科学上网): [https://raw.githubusercontent.com/lanceliao/china-holiday-calender/master/holidayCal.ics](https://raw.githubusercontent.com/lanceliao/china-holiday-calender/master/holidayCal.ics)
 
+### JSON API
+- [https://www.shuyz.com/githubfiles/china-holiday-calender/master/holidayAPI.json](https://www.shuyz.com/githubfiles/china-holiday-calender/master/holidayAPI.json)
+- [https://raw.githubusercontent.com/lanceliao/china-holiday-calender/master/holidayAPI.json](https://raw.githubusercontent.com/lanceliao/china-holiday-calender/master/holidayAPI.json)
+
 ## 特点
 1. 节假日信息来自[中国政府网](http://www.gov.cn/)，一手信息、权威准确
 2. 包含最近3年的节假日信息，机器人自动维护，更新及时
@@ -61,3 +65,16 @@
 ![](./screenshots/queryHoliday.jpg)  |  ![](./screenshots/holidayAlarm.jpg)
 [https://www.shuyz.com/shortcuts/holiday-query](https://www.shuyz.com/shortcuts/holiday-query) | [https://www.shuyz.com/shortcuts/holiday-alarm](https://www.shuyz.com/shortcuts/holiday-alarm)
 
+## API 字段说明
+
+节假日对象：
+
+| 字段名   | 类型         | 描述                           |
+| ------ | ------------ | ------------------------------ |
+| Name     | 字符串       | 节假日的名称。                   |
+| StartDate | 字符串       | 节假日的开始日期，格式为"YYYY-MM-DD"。 |
+| EndDate | 字符串       | 节假日的结束日期，格式为"YYYY-MM-DD"。 |
+| Duration     | 整数         | 节假日的持续天数。                 |
+| CompDays | 字符串数组   | 补班日期的数组，格式为"YYYY-MM-DD"。   |
+| URL    | 字符串       | 放假通知的URL链接。               |
+| Memo     | 字符串       | 放假通知。               |
