@@ -4,7 +4,7 @@
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group-33A8E3)](https://t.me/ShuYZGroup)
 
 ## 说明
-2023~2026年中国放假、调休和补班日历 更新时间2025-11-04 23:59:04
+2023~2027年中国放假、调休和补班日历 更新时间2026-11-06 13:44:42
 
 ### 支持3种类型的日历
 - `holidayCal.ics` 包含放假和调休

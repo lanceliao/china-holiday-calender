@@ -1,11 +1,84 @@
 {
     "Name": "ShuYZ中国节假日",
     "Version": "1.0",
-    "Generated": "20251104T235904Z",
+    "Generated": "20261106T054442Z",
     "Timezone": "Asia/Shanghai",
     "Author": "ShuYZ.com",
     "URL": "https://github.com/lanceliao/china-holiday-calender",
     "Years": {
+        "2027": [
+            {
+                "Name": "元旦",
+                "StartDate": "2027-01-01",
+                "EndDate": "2027-01-03",
+                "Duration": 3,
+                "CompDays": [],
+                "URL": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
+                "Memo": "一、元旦：1月1日（周五）至3日（周日）放假，共3天。"
+            },
+            {
+                "Name": "春节",
+                "StartDate": "2027-02-05",
+                "EndDate": "2027-02-13",
+                "Duration": 9,
+                "CompDays": [
+                    "2027-01-31",
+                    "2027-02-14"
+                ],
+                "URL": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
+                "Memo": "二、春节：2月5日（农历除夕、周五）至13日（农历正月初八、周六）放假调休，共9天。1月31日（周日）、2月14日（周日）上班。"
+            },
+            {
+                "Name": "清明节",
+                "StartDate": "2027-04-03",
+                "EndDate": "2027-04-05",
+                "Duration": 3,
+                "CompDays": [],
+                "URL": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
+                "Memo": "三、清明节：4月3日（周六）至5日（周一）放假，共3天。"
+            },
+            {
+                "Name": "劳动节",
+                "StartDate": "2027-05-01",
+                "EndDate": "2027-05-05",
+                "Duration": 5,
+                "CompDays": [
+                    "2027-05-08"
+                ],
+                "URL": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
+                "Memo": "四、劳动节：5月1日（周六）至5日（周三）放假调休，共5天。5月8日（周六）上班。"
+            },
+            {
+                "Name": "端午节",
+                "StartDate": "2027-06-09",
+                "EndDate": "2027-06-09",
+                "Duration": 1,
+                "CompDays": [],
+                "URL": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
+                "Memo": "五、端午节：6月9日（周三）放假，共1天。"
+            },
+            {
+                "Name": "中秋节",
+                "StartDate": "2027-09-15",
+                "EndDate": "2027-09-15",
+                "Duration": 1,
+                "CompDays": [],
+                "URL": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
+                "Memo": "六、中秋节：9月15日（周三）放假，共1天。"
+            },
+            {
+                "Name": "国庆节",
+                "StartDate": "2027-10-01",
+                "EndDate": "2027-10-07",
+                "Duration": 7,
+                "CompDays": [
+                    "2027-09-26",
+                    "2027-10-09"
+                ],
+                "URL": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
+                "Memo": "七、国庆节：10月1日（周五）至7日（周四）放假调休，共7天。9月26日（周日）、10月9日（周六）上班。"
+            }
+        ],
         "2026": [
             {
                 "Name": "元旦",
